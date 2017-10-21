@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+#cryptocurrencydefinition{
+    color:black;
+    text-align: center;
+}
+h2{
+    text-align:center;
+    color: red;
+}
+#cryptocurrencyhistory{
+    color:black;
+    text-align: center;
+}
+#cryptocurrencybenefits{
+    color:black;
+    text-align: center;
+}
+#cryptocurrencydrawbacks{
+    color:black;
+    text-align: center;
+}
+#footer{
+    color: black;
+    text-align: center;
+    border:2px dashed green; 
+}
+body{
+    background-color: black
+    
+}
+body{
+    background-color:00ff40;
+    background-image: url("../images/moneytree.jpg");
+}    
+p{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+#nav a:link{
+    color: yellow;
+    
+}
+
+#nav a:visted{
+    color: green;
+}
+
+#nav a:hover{
+    color: purple;
+}
+
+#nav a:active{
+    color: orange;
+}
+
+
+#cryptocurrencydefinition p{
+    background-color: lightgrey
+    width:200px;
+    padding: 25px;
+    border:25px solid navy;
+}
